@@ -7,6 +7,10 @@ node markdown grammar
 
 hope I can stick to it.
 
+1. write markdown in vscode.
+
+2. install Markdown Preview Enhanced
+
 ## step
 
 * [x] basic grammar

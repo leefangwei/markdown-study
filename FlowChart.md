@@ -27,10 +27,11 @@ inputoutput|输入、输出
 ```flow
 st=>start: 开始
 e=>end: 结束
-op=>operation: 我的操作
+op=>subroutine: 我的操作
+op1=>operation: 我的操作1
 cond=>condition: 判断确认？
   
-st->op->cond
+st->op->op1->cond
 cond(yes)->e
 cond(no)->op
 ```
