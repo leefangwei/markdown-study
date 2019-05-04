@@ -9,4 +9,6 @@ hope I can stick to it.
 
 ## step
 
-* [ ] basic grammar
+* [x] basic grammar
+* [x] flow grammar
+* [x] sequence grammar
